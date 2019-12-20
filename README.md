@@ -16,4 +16,4 @@ Possible uses of texts are OCR Ground Truth creation for early modern Finnish, a
 
 [Common Voice](https://voice.mozilla.org/fi) is Mozilla's project that creates an entirely openly available speech dataset that can be used to any purpose. For that we need Public Domain sentences. We have translated the interface, and are currently in sentence validation and collection phase. We would need 5000–10,000 sentences, and several persons have to vote that each sentence is valid before it can be accepted. We have now bit over 3000 sentences, so there is still work to do.
 
-If you got this far, please go to check the sentence collector, and if you want, validate or add some new sentences: [common-voice.github.io/sentence-collector](common-voice.github.io/sentence-collector)
+If you got this far, please go to check the sentence collector, and if you want, validate or add some new sentences: [https://common-voice.github.io/sentence-collector](https://common-voice.github.io/sentence-collector/#/)
